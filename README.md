@@ -1,3 +1,3 @@
 # Rock-paper-scissor-Game
 
-![alt text](Screenshot 2025-09-10 190614.png)
+![alt text](https://github.com/murugavel-a/Rock-paper-scissor-Game/blob/main/Screenshot%202025-09-10%20190614.png)
